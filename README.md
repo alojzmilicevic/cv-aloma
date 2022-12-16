@@ -1,6 +1,8 @@
 # CV Creator 📝 GUI-part
 Welcome to CV Creator, a web application built with React that allows you to easily create professional CVs. You can quickly input your education, work experience, skills, and personal information to generate a sleek and polished CV.
 
+For more information about the server-side implementation of CV Creator, check out the [CV Creator Server](https://github.com/alojzmilicevic/cv-aloma-server) repository on GitHub.
+
 # Features 🎨
 - [FUTURE] Customizable templates to choose from
 - [FUTURE] Easy input of education, work experience, skills, and personal information
