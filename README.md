@@ -1,4 +1,4 @@
-# CV Creator 📝
+# CV Creator 📝 GUI-part
 Welcome to CV Creator, a web application built with React that allows you to easily create professional CVs. You can quickly input your education, work experience, skills, and personal information to generate a sleek and polished CV.
 
 # Features 🎨
